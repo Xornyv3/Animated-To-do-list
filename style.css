@@ -59,7 +59,6 @@ section::before {
   justify-content: space-between;
   background: #333;
   border-radius: 30px;
-  padding-left: 20px;
   margin-bottom: 25px; 
 }
 
